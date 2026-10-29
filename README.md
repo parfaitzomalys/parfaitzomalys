@@ -38,3 +38,10 @@
 <img width="136" alt="image" src="https://github.com/user-attachments/assets/67a47a1e-87d2-48e8-a614-43e441a42317" />
  <img width="150" alt="image" src="https://github.com/user-attachments/assets/99c46fd4-e21d-47bb-8668-57fd1c1ac26a" />
 </p>
+
+<div align="center">
+<details>
+<summary>  &nbsp;&nbsp;my pawns /j </summary><br>
+ ${\textsf{\color{#F3F3F3}@WanderersWife}}$
+  ${\textsf{\color{#000000}@zombietill}}$
+</details>
