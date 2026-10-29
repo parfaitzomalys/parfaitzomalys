@@ -41,7 +41,7 @@
 
 <div align="center">
 <details>
-<summary>  &nbsp;&nbsp;my pawns /j </summary><br>
+<summary>  &nbsp;&nbsp;meow </summary><br>
  ${\textsf{\color{#F3F3F3}@WanderersWife}}$
   ${\textsf{\color{#F3F3F3}@zombietill}}$
 </details>
