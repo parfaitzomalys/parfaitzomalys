@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#e5d7bd}𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚑𝚘𝚢𝚊!}}$
+ ${\textsf{\color{#F3F3F3}𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚑𝚘𝚢𝚊!}}$
 </p>
 
 <p align="center">
