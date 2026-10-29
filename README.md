@@ -43,5 +43,5 @@
 <details>
 <summary>  &nbsp;&nbsp;my pawns /j </summary><br>
  ${\textsf{\color{#F3F3F3}@WanderersWife}}$
-  ${\textsf{\color{#000000}@zombietill}}$
+  ${\textsf{\color{#F3F3F3}@zombietill}}$
 </details>
