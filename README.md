@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-<img width="120" alt="pony-town-susie , deltarune- new f_o-trot-blush-blinking-padded-6x" src="https://github.com/user-attachments/assets/34bd097d-39b0-463e-a5ea-5ad8239bd15d" />
+
 </p>
