@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[READ.BYI](https://byiread.straw.page)
+[Read.byi](https://byiread.straw.page)
 
 </div>
 
@@ -42,15 +42,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true">
   </a>
 </p>
-
-<div align="center">
-<details>
-<summary>  &nbsp;&nbsp;BYI.. </summary><br>
- ${\textsf{\color{#F3F3F3}I am near Wednesday's age.. Don't assume I'm a pred..}}$
-  ${\textsf{\color{#F3F3F3}you weirdos can't even bother to read somebody's socials..}}$
-  ${\textsf{\color{#F3F3F3}SOME pt players: we can't bother to read so we're just gonna assume!}}$
-   ${\textsf{\color{#F3F3F3}that's what some of you guys literally are.. stop assuming stuff about ppl you don't know..}}$
-</details>
 
 
 <p align="center">
