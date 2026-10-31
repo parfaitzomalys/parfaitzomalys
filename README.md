@@ -27,6 +27,12 @@
  <img width="100" alt="image" src="https://github.com/user-attachments/assets/108d6a9b-c5e4-4323-989c-93acb31f34d4" />
 </p>
 
+<div align="center">
+
+[READ.BYI](https://byiread.straw.page)
+
+</div>
+
 <p align="center">
  ${\textsf{\color{#F3F3F3}𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚑𝚘𝚢𝚊!}}$
 </p>
