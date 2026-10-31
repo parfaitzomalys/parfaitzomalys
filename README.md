@@ -28,6 +28,16 @@
 </p>
 
 <div align="center">
+ 
+<p align="center">
+ ${\textsf{\color{#f3f3f3}chesslings}}$
+ 
+</div>
+<p align="center">
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/d5a47d8e-9d2e-4cda-9a75-c0c170e4302e" />
+</p>
+
+<div align="center">
 
 [Read.byi](https://byiread.straw.page)
 
