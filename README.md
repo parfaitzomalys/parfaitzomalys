@@ -30,7 +30,7 @@
 <div align="center">
  
 <p align="center">
- ${\textsf{\color{#f3f3f3}chesslings}}$
+ ${\textsf{\color{#f3f3f3}special mentions}}$
  
 </div>
 <p align="center">
