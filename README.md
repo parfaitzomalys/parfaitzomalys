@@ -11,11 +11,11 @@
 <div align="center">
 
 [Atabook](https://moralezfanclub.atabook.org/)
-•
+✦
 [Strawpage](https://arthuredmund.straw.page)
-•
+✦
 [pronouns.cc](https://pronouns.cc/@milesssss)
-•
+✦
 [Alter's.github](https://github.com/milessmoralez)
 
 </div>
