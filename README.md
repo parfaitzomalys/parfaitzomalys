@@ -37,6 +37,16 @@
   </a>
 </p>
 
+<div align="center">
+<details>
+<summary>  &nbsp;&nbsp;BYI.. </summary><br>
+ ${\textsf{\color{#F3F3F3}I am near Wednesday's age.. Don't assume I'm a pred..}}$
+  ${\textsf{\color{#F3F3F3}you weirdos can't even bother to read somebody's socials..}}$
+  ${\textsf{\color{#F3F3F3}SOME pt players: we can't bother to read so we're just gonna assume!}}$
+   ${\textsf{\color{#F3F3F3}that's what some of you guys literally are.. stop assuming stuff about ppl you don't know..}}$
+</details>
+
+
 <p align="center">
 <img width="136" alt="image" src="https://github.com/user-attachments/assets/67a47a1e-87d2-48e8-a614-43e441a42317" />
  <img width="150" alt="image" src="https://github.com/user-attachments/assets/99c46fd4-e21d-47bb-8668-57fd1c1ac26a" />
