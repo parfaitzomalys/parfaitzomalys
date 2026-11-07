@@ -16,7 +16,7 @@
 ✦
 [pronouns.cc](https://pronouns.cc/@milesssss)
 ✦
-[Alter's.github](https://github.com/milessmoralez)
+[Alter's.github](https://github.com/latinwoe)
 
 </div>
 
