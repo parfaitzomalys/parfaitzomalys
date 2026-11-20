@@ -1,11 +1,8 @@
 <p align="center">
- <img width="100" alt="image" src="https://github.com/user-attachments/assets/84610441-befb-4f4f-9cc2-b153d7600a43" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/3b4bb71e-f098-46fd-abeb-64dfc3970613" />
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/84610441-befb-4f4f-9cc2-b153d7600a43" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/b0fd6ce6-31e3-41dd-a99c-0fade1537bfa" />
 </p>
 
 <p align="center">
-<img width="536" alt="image" src="https://github.com/user-attachments/assets/12339fe2-38c9-4ff8-9bb7-36d78055e47d" />
 </p>
 
 <div align="center">
@@ -23,18 +20,18 @@
 
 
 <p align="center">
-<img width="90" alt="image" src="https://github.com/user-attachments/assets/b6b3cedc-cb77-4b20-a6d4-c77d9253b1ad" />
- <img width="100" alt="image" src="https://github.com/user-attachments/assets/108d6a9b-c5e4-4323-989c-93acb31f34d4" />
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/1dca666c-f9de-4ad8-a778-0f35d3071f52" />
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/49ca3f9d-ddf5-47eb-acf1-1ec0aa582538" />
 </p>
 
 <div align="center">
  
 <p align="center">
- ${\textsf{\color{#f3f3f3}special mentions}}$
+ ${\textsf{\color{#FF6C3D}special mentions}}$
  
 </div>
 <p align="center">
-<img width="140" alt="image" src="https://github.com/user-attachments/assets/d5a47d8e-9d2e-4cda-9a75-c0c170e4302e" />
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/83f052d9-5f2b-4249-bf8e-9d432e365108" />
 </p>
 
 <div align="center">
@@ -44,7 +41,7 @@
 </div>
 
 <p align="center">
- ${\textsf{\color{#F3F3F3}𝚌𝚊𝚕𝚕 𝚖𝚎 Enid!}}$
+ ${\textsf{\color{#19367A}𝚌𝚊𝚕𝚕 𝚖𝚎 Enid!}}$
 </p>
 
 <p align="center">
@@ -55,8 +52,7 @@
 
 
 <p align="center">
-<img width="136" alt="image" src="https://github.com/user-attachments/assets/67a47a1e-87d2-48e8-a614-43e441a42317" />
- <img width="150" alt="image" src="https://github.com/user-attachments/assets/99c46fd4-e21d-47bb-8668-57fd1c1ac26a" />
+
 </p>
 
 <div align="center">
