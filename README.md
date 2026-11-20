@@ -41,7 +41,7 @@
 </div>
 
 <p align="center">
- ${\textsf{\color{#19367A}𝚌𝚊𝚕𝚕 𝚖𝚎 Enid!}}$
+ ${\textsf{\color{#FFAF37}𝚌𝚊𝚕𝚕 𝚖𝚎 Sal.Enid!}}$
 </p>
 
 <p align="center">
