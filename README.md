@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[Read.byi](https://byiread.straw.page)
+
 
 </div>
 
