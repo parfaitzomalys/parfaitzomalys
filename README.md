@@ -1,8 +1,13 @@
 <p align="center">
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/b0fd6ce6-31e3-41dd-a99c-0fade1537bfa" />
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/fc739a2b-ee5e-4e4c-8e0b-bf61775d842b" />
 </p>
 
 <p align="center">
+✦
+</p>
+
+<p align="center">
+ <img width="350" alt="image" src="https://github.com/user-attachments/assets/b0fd6ce6-31e3-41dd-a99c-0fade1537bfa" />
 </p>
 
 <div align="center">
