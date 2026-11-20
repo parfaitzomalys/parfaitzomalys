@@ -9,7 +9,7 @@
 
 [Atabook](https://moralezfanclub.atabook.org/)
 ✦
-[Strawpage](https://arthuredmund.straw.page)
+[reworkingstrawpagesoon]()
 ✦
 [pronouns.cc](https://pronouns.cc/@milesssss)
 ✦
