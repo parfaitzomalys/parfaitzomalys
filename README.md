@@ -60,7 +60,7 @@
 
 
 <p align="center">
-<img width="149" alt="image" src="https://github.com/user-attachments/assets/5138c862-8a27-446a-b61a-5ee129ad6397" />
+<img width="282" alt="image" src="https://github.com/user-attachments/assets/4248fd84-02b0-4e1f-a3f2-f922fafff0bd" />
 </p>
 
 <div align="center">
