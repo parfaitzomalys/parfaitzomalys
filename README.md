@@ -22,7 +22,7 @@
 
 <div align="center">
 <details>
-<summary>  &nbsp;&nbsp;my bleed-drenched little sweetheart </summary><br>
+<summary>  &nbsp;&nbsp;my sweetheart </summary><br>
 ✦
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/c8978001-bda6-4910-b447-4e22b5c70033" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/8ba82e5d-3591-458f-b052-e00acc2504e0" />
