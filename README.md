@@ -20,11 +20,9 @@
 ✦
 [Alter's.github](https://github.com/latinwoe)
 
-</div>
-
-<p align="center">
+<div align="center">
 <details>
-<summary>  &nbsp;&nbsp;my pain-addicted boyfriend </summary><br>
+<summary>  &nbsp;&nbsp;meow </summary><br>
 ✦
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/c8978001-bda6-4910-b447-4e22b5c70033" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/8ba82e5d-3591-458f-b052-e00acc2504e0" />
@@ -35,9 +33,6 @@
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/09793afb-f428-45ce-bff9-2161dc28f583" />
 ✦
 </details>
-</p>
-
-<div align="center">
  
 <p align="center">
  ${\textsf{\color{#241155}special mentions}}$
