@@ -22,9 +22,9 @@
 
 </div>
 
-
-</div>
 <p align="center">
+<details>
+<summary>  &nbsp;&nbsp;my pain-addicted boyfriend </summary><br>
 ✦
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/c8978001-bda6-4910-b447-4e22b5c70033" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/8ba82e5d-3591-458f-b052-e00acc2504e0" />
@@ -34,9 +34,8 @@
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/eea271bc-ba49-4b1d-993c-08492e72342f" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/09793afb-f428-45ce-bff9-2161dc28f583" />
 ✦
+</details>
 </p>
-<div align="center">
-
 
 <div align="center">
  
@@ -45,7 +44,7 @@
  
 </div>
 <p align="center">
-<img width="140" alt="image" src="https://github.com/user-attachments/assets/83f052d9-5f2b-4249-bf8e-9d432e365108" />
+<img width="224" alt="image" src="https://github.com/user-attachments/assets/6f26fdbc-c6f7-470a-bdf5-d33d7ef10645" />
 </p>
 
 <div align="center">
