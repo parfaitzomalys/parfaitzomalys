@@ -25,15 +25,15 @@
 
 </div>
 <p align="center">
-<img width="99" alt="image" src="https://github.com/user-attachments/assets/f29a2c26-bde2-4684-8c46-9c5dd8bf28f6" />
-<img width="99" alt="image" src="https://github.com/user-attachments/assets/0d89afc5-a957-4a88-8a21-1352c4b623c4" />
 ✦
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/c8978001-bda6-4910-b447-4e22b5c70033" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/8ba82e5d-3591-458f-b052-e00acc2504e0" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/e9092036-a8b1-46cd-80e2-3609ca425eaa" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/92d56a6c-0266-482f-9fe0-6e067b828e51" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/4a0a4d6f-cb2e-49cb-a306-3b551eb36edc" />
-
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/eea271bc-ba49-4b1d-993c-08492e72342f" />
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/09793afb-f428-45ce-bff9-2161dc28f583" />
+✦
 </p>
 <div align="center">
 
@@ -41,7 +41,7 @@
 <div align="center">
  
 <p align="center">
- ${\textsf{\color{#FF6C3D}special mentions}}$
+ ${\textsf{\color{#241155}special mentions}}$
  
 </div>
 <p align="center">
@@ -55,7 +55,7 @@
 </div>
 
 <p align="center">
- ${\textsf{\color{#9D3870}𝚌𝚊𝚕𝚕 𝚖𝚎 Sal!}}$
+ ${\textsf{\color{#11d1a9}𝚌𝚊𝚕𝚕 𝚖𝚎 Sal!}}$
 </p>
 
 <p align="center">
