@@ -14,7 +14,7 @@
 
 [Atabook](https://moralezfanclub.atabook.org/)
 ✦
-[reworkingstrawpagesoon]()
+[Strawpage](https://jabbersonlypoison.straw.page)
 ✦
 [pronouns.cc](https://pronouns.cc/@milesssss)
 ✦
