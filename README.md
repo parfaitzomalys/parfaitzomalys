@@ -16,8 +16,6 @@
 ✦
 [Strawpage](https://jabbersonlypoison.straw.page)
 ✦
-[pronouns.cc](https://pronouns.cc/@milesssss)
-✦
 [Alter's.github](https://github.com/latinwoe)
 
 <div align="center">
