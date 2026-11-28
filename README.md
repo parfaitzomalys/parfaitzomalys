@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[Atabook](https://moralezfanclub.atabook.org/)
+[Atabook](https://jabbersonlypoison.atabook.org/)
 ✦
 [Strawpage](https://jabbersonlypoison.straw.page)
 ✦
