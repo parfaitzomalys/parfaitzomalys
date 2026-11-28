@@ -58,7 +58,8 @@
 
 
 <p align="center">
-<img width="148" alt="image" src="https://github.com/user-attachments/assets/4248fd84-02b0-4e1f-a3f2-f922fafff0bd" />
+<img width="120" alt="image-faa7-gradientmap pro" src="https://github.com/user-attachments/assets/066899e4-b20b-411c-a3c7-29207754132e" />
+ <img width="110" alt="image-cb54-gradientmap pro" src="https://github.com/user-attachments/assets/c14dae34-7f9a-4fea-b570-155b81bbd1ed" />
 </p>
 
 <div align="center">
